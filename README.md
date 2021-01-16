@@ -1,4 +1,4 @@
-# MemberPress-Timezone
+# MemberPressCoupons-Timezone
 PHP Snippet: Timezone Fix for MemberPress Coupons
 
 MemberPress coupons for Wordpress are saved by default using the UTC timezone. This code snippet forces MemberPress Coupons to use the correct timezone as defined in Wordpress General Settings.
